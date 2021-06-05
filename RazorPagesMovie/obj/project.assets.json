@@ -8821,25 +8821,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Harsha\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\sony-pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Harsha\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\Harsha\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
-      "packagesPath": "C:\\Users\\Harsha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Harsha\\source\\repos\\RazorPagesMovie\\obj\\",
+      "projectPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "packagesPath": "C:\\Users\\sony-pc\\.nuget\\packages\\",
+      "outputPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Harsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\sony-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -8850,6 +8845,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -8861,6 +8857,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -8899,7 +8896,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
