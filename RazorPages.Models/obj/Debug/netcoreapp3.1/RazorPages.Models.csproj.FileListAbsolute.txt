@@ -1,0 +1,9 @@
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Models\bin\Debug\netcoreapp3.1\RazorPages.Models.deps.json
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Models\bin\Debug\netcoreapp3.1\RazorPages.Models.dll
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Models\bin\Debug\netcoreapp3.1\RazorPages.Models.pdb
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Models\obj\Debug\netcoreapp3.1\RazorPages.Models.csprojAssemblyReference.cache
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Models\obj\Debug\netcoreapp3.1\RazorPages.Models.AssemblyInfoInputs.cache
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Models\obj\Debug\netcoreapp3.1\RazorPages.Models.AssemblyInfo.cs
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Models\obj\Debug\netcoreapp3.1\RazorPages.Models.csproj.CoreCompileInputs.cache
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Models\obj\Debug\netcoreapp3.1\RazorPages.Models.dll
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Models\obj\Debug\netcoreapp3.1\RazorPages.Models.pdb

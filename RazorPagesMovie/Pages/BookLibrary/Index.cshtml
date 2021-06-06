@@ -1,0 +1,40 @@
+﻿@page
+@model RazorPagesMovie.Pages.BookLibrary.IndexModel
+@{
+    var noOfBooksInStore = Model.lstBooks.Count();
+
+}
+
+<h3>No Of Books In the store:@noOfBooksInStore</h3>
+
+<div class="card-deck">
+    <div class="row">
+
+        @foreach (var book in Model.lstBooks)
+        {
+            var photoPath = "/images/bookcoverpages/" + (book.CoverPage ?? "travel.jpg");
+        <div class="col-md-3" style="padding-top:10px">
+            <div class="card">
+                <img class="card-img-top" src="@photoPath" alt="Card image cap">
+                <div class="card-body">
+
+                    <h5 class="card-title">Name:@book.BookName</h5>
+                    <h5 class="card-title">Author:@book.AuthorName</h5>
+                    <p class="card-text">Description:@book.Description</p>
+                    <p class="card-text"><small class="text-muted">Price:@book.Price</small></p>
+                    <p class="card-text">Category:@book.BookCategory</p>
+                    <p class="card-text">Pages:@book.NoOfPages</p>
+                </div>
+                <div class="card-footer">
+                    @*<small class="text-muted">Last updated 3 mins ago</small>*@
+                    <a href="#" class="btn btn-sm btn-primary">View Details</a>
+                    <a href="#" class="btn btn-sm btn-primary">Add to cart</a>
+                    
+                </div>
+            </div>
+        </div>
+        }
+
+    </div>
+
+    </div>

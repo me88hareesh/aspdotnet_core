@@ -4,6 +4,118 @@
     "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
+    "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Models\\RazorPages.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Models\\RazorPages.Models.csproj",
+        "projectName": "RazorPages.Models",
+        "projectPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Models\\RazorPages.Models.csproj",
+        "packagesPath": "C:\\Users\\sony-pc\\.nuget\\packages\\",
+        "outputPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sony-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Services\\RazorPages.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Services\\RazorPages.Services.csproj",
+        "projectName": "RazorPages.Services",
+        "projectPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Services\\RazorPages.Services.csproj",
+        "packagesPath": "C:\\Users\\sony-pc\\.nuget\\packages\\",
+        "outputPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sony-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Models\\RazorPages.Models.csproj": {
+                "projectPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Models\\RazorPages.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +139,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Models\\RazorPages.Models.csproj": {
+                "projectPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Models\\RazorPages.Models.csproj"
+              },
+              "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Services\\RazorPages.Services.csproj": {
+                "projectPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Services\\RazorPages.Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

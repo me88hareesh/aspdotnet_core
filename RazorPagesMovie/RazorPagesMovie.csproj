@@ -15,7 +15,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\images\bookcoverpages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RazorPages.Models\RazorPages.Models.csproj" />
+    <ProjectReference Include="..\RazorPages.Services\RazorPages.Services.csproj" />
   </ItemGroup>
 
 </Project>

@@ -364,3 +364,9 @@ E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPagesMovie\obj\Debug\netcoreapp3.
 E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.dll
 E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.pdb
 E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.genruntimeconfig.cache
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Sample\Index.cshtml.g.cs
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPagesMovie\bin\Debug\netcoreapp3.1\RazorPages.Models.dll
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPagesMovie\bin\Debug\netcoreapp3.1\RazorPages.Services.dll
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPagesMovie\bin\Debug\netcoreapp3.1\RazorPages.Models.pdb
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPagesMovie\bin\Debug\netcoreapp3.1\RazorPages.Services.pdb
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\BookLibrary\Index.cshtml.g.cs

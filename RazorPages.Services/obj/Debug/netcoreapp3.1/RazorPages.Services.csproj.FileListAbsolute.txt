@@ -1,0 +1,12 @@
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\bin\Debug\netcoreapp3.1\RazorPages.Services.deps.json
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\bin\Debug\netcoreapp3.1\RazorPages.Services.dll
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\bin\Debug\netcoreapp3.1\RazorPages.Services.pdb
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\bin\Debug\netcoreapp3.1\RazorPages.Models.dll
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\bin\Debug\netcoreapp3.1\RazorPages.Models.pdb
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\obj\Debug\netcoreapp3.1\RazorPages.Services.csprojAssemblyReference.cache
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\obj\Debug\netcoreapp3.1\RazorPages.Services.AssemblyInfoInputs.cache
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\obj\Debug\netcoreapp3.1\RazorPages.Services.AssemblyInfo.cs
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\obj\Debug\netcoreapp3.1\RazorPages.Services.csproj.CoreCompileInputs.cache
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\obj\Debug\netcoreapp3.1\RazorPages.Services.csproj.CopyComplete
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\obj\Debug\netcoreapp3.1\RazorPages.Services.dll
+E:\ASP_DOT_NET_RAZOR_PAGES\aspdotnet_core\RazorPages.Services\obj\Debug\netcoreapp3.1\RazorPages.Services.pdb

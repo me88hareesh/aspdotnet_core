@@ -2743,6 +2743,29 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "RazorPages.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RazorPages.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RazorPages.Models.dll": {}
+        }
+      },
+      "RazorPages.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RazorPages.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RazorPages.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RazorPages.Services.dll": {}
+        }
       }
     }
   },
@@ -8810,6 +8833,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "RazorPages.Models/1.0.0": {
+      "type": "project",
+      "path": "../RazorPages.Models/RazorPages.Models.csproj",
+      "msbuildProject": "../RazorPages.Models/RazorPages.Models.csproj"
+    },
+    "RazorPages.Services/1.0.0": {
+      "type": "project",
+      "path": "../RazorPages.Services/RazorPages.Services.csproj",
+      "msbuildProject": "../RazorPages.Services/RazorPages.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8817,7 +8850,9 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.15",
       "Microsoft.EntityFrameworkCore.Sqlite >= 3.1.15",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.15",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5",
+      "RazorPages.Models >= 1.0.0",
+      "RazorPages.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8846,7 +8881,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Models\\RazorPages.Models.csproj": {
+              "projectPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Models\\RazorPages.Models.csproj"
+            },
+            "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Services\\RazorPages.Services.csproj": {
+              "projectPath": "E:\\ASP_DOT_NET_RAZOR_PAGES\\aspdotnet_core\\RazorPages.Services\\RazorPages.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
